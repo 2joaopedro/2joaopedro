@@ -1,16 +1,44 @@
-### Hi there 👋
+<!-- BEGIN -->
 
-<!--
-**2joaopedro/2joaopedro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hello my name is João Pedro Franchini
+<h2 align="center">everything has its time!</h2>
 
-Here are some ideas to get you started:
+- 💼 I'm Boos at @GameShifters.
+- 👨‍💻 I'm game developer.
+- ☕ I love coffee
+-  🕹 I love Games
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Types of technology you will find here
+<p align="left">
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="csharp" width="40" height="50"/>
+</p>
+  
+- Unity
+- C#
+
+---
+
+<center>
+  <table>
+    <tr>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2joaopedro&hide=html&layout=compact&theme=dracula" /></td>
+      <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=2joaopedro&theme=dracula&show_icons=true"/></td>
+    </tr>   
+  </table>
+  <img align="right" alt="Joao-Mario" src=https://cdn.discordapp.com/attachments/653002831170895874/901614843407265812/7d99e305758e0b93632128b945c0f4c2.gif
+</center>
+
+---
+
+**📫 How to reach me:**
+  
+[![Gmail Badge](https://img.shields.io/badge/-joao.pedro.franchini.4@gmail.com-0f3d8c?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joao.pedro.franchini.4@gmail.com)](mailto:joao.pedro.franchini.4@gmail.com)
+ 
+
+---
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=2joaopedro" alt="2joaopedro" /> </p>
+
+<!-- END-->
