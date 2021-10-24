@@ -18,7 +18,6 @@ Types of technology you will find here
   
 - Unity
 - C#
-
 ---
 
 <center>
@@ -28,7 +27,6 @@ Types of technology you will find here
       <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=2joaopedro&theme=dracula&show_icons=true"/></td>
     </tr>   
   </table>
-  <img align="right" alt="Joao-Mario" src=https://cdn.discordapp.com/attachments/653002831170895874/901614843407265812/7d99e305758e0b93632128b945c0f4c2.gif
 </center>
 
 ---
