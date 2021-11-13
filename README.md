@@ -20,7 +20,7 @@ Types of technology you will find here
   
 - Unity
 - C#
-- Java
+
 ---
 
 <center>
