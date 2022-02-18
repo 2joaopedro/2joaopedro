@@ -2,8 +2,7 @@
 
 <h1 align="center">Hello my name is João Pedro Franchini
 <h2 align="center">everything has its time!</h2>
-👨‍💻 Sou desenvolvedor front-end e desenvolvedor python. 
-  
+👨‍💻 Sou desenvolvedor front-end e desenvolvedor python.  
 ⚡ Eu gosto de café.
 ---
 
