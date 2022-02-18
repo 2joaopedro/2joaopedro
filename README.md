@@ -5,7 +5,6 @@
 👨‍💻 Sou desenvolvedor front-end e desenvolvedor python.  
 ⚡ Eu gosto de café.
 ---
-
 Tipos de tecnologia você encontra aqui
 <p align="left">
   
