@@ -26,6 +26,7 @@ Tipos de tecnologia você encontra aqui
 <center>
   <table>
     <tr>
+        <td><img width="400px" align="left" src=https://www.flaticon.com/br/icone-gratis/html_1051277?term=html&page=1&position=4&page=1&position=4&related_id=1051277&origin=search /></td>
       <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=2joaopedro&theme=dracula&show_icons=true"/></td>
     </tr>   
   </table>
