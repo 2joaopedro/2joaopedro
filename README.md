@@ -6,7 +6,7 @@
 ⚡ Eu gosto de café.
 ---
 
-Types of technology you will find here
+Tipos de tecnologia você encontra aqui
 <p align="left">
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="Html" width="40" height="50"/></svg>
