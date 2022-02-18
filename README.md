@@ -10,9 +10,9 @@
 Types of technology you will find here
 <p align="left">
   
-  <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css" alt="csharp" width="40" height="50"/>
+  <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css" alt="Html" width="40" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="unity" width="40" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="50"/>
   
 </p>
   
