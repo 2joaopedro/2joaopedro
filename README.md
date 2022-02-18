@@ -8,7 +8,7 @@
 ---
 
 Types of technology you will find here
-<p align="left">s
+<p align="left">
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="Html" width="40" height="50"/></svg>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="Css" width="40" height="50"/>
