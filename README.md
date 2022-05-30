@@ -2,7 +2,7 @@
 
 <h1 align="center"> Olá meu nome é João Pedro Franchini
 <h2 align="center">tudo tem o seu tempo!</h2>
-👨‍💻 Sou desenvolvedor front-end e desenvolvedor python.  
+👨‍💻 Sou desenvolvedor front-end | Php | JavaScript.  
 ⚡ Eu gosto de café.
   
 ---
