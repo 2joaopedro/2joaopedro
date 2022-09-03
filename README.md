@@ -1,7 +1,7 @@
 <!-- BEGIN -->
 
 <h1 align="center"> Hello my name is João Pedro</h1>
-</br>
+<br>
 <h2 align="center">Everything has is time!</h2>
 👨‍💻 I am Developer back-end | Laravel | Mysql |
 ⚡ I like coffe.
