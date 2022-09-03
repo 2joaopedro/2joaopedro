@@ -8,7 +8,7 @@
 ---
   
   
-Tipos de tecnologia você encontra aqui
+Types of technology you find here
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="laravel" width="50" height="60"/></svg> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" alt="MySQL" width="50" height="60"/></svg>  
