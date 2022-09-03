@@ -2,7 +2,7 @@
 
 <h1 align="center"> Olá meu nome é João Pedro Franchini
 <h2 align="center">tudo tem o seu tempo!</h2>
-👨‍💻 Sou desenvolvedor front-end | Php | JavaScript.  
+👨‍💻 Sou desenvolvedor Back-end | Laravel | Mysql |.  
 ⚡ Eu gosto de café.
   
 ---
@@ -10,11 +10,8 @@
   
 Tipos de tecnologia você encontra aqui
 <p align="left">
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="Html" width="40" height="50"/></svg>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="Css" width="40" height="50"/></svg>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="50"/></svg>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="Php" width="40" height="50"/></svg> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="laravel" width="40" height="50"/></svg> 
+  <img src="hhttps://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="50"/></svg>
 </p>
   
 - Html
