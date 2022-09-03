@@ -1,9 +1,9 @@
 <!-- BEGIN -->
 
-<h1 align="center"> Olá meu nome é João Pedro Franchini
-<h2 align="center">tudo tem o seu tempo!</h2>
-👨‍💻 Sou desenvolvedor Back-end | Laravel | Mysql |.  
-⚡ Eu gosto de café.
+<h1 align="center"> Hello my name is João Pedro</h1>
+<h2 align="center">Everything has its time!</h2>
+👨‍💻 I am Developer back-end | Laravel | Mysql |
+⚡ I like coffe.
   
 ---
   
