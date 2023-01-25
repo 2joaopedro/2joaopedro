@@ -1,8 +1,8 @@
 <!-- BEGIN -->
 
-<h1 align="center">Welcome 👋, I'm João Pedro</h1>
+<h1 align="center">Seja bem vindo 👋, eu sou o João Pedro</h1>
 
-## **📋 Basic Informations** </br>
+## **📋 Informações Básicas** </br>
  • Atualmente estou aprendendo: Android Nativo. </br>
  • Estou estudando: Análise de sistemas - Unimar. </br>
   
