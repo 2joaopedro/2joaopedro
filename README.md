@@ -1,6 +1,8 @@
 <!-- BEGIN -->
 
 <h1 align="center">Seja bem vindo 👋, eu sou o João Pedro</h1>
+<h1 align="center">⏳ Tudo tem o seu tempo.</h1>
+
 
 ## **📋 Informações Básicas** </br>
  • Atualmente estou aprendendo: Android Nativo. </br>
