@@ -1,6 +1,6 @@
 <!-- BEGIN -->
 
-<h1 align="center">Sejá bem vindo👋,Eu sou João Pedro</h1>
+<h1 align="center">Welcome 👋, I'm João Pedro</h1>
 ---
 
 ## **📋 Basic Informations** </br>
