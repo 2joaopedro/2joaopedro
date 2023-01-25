@@ -1,9 +1,10 @@
 <!-- BEGIN -->
 
 <h1 align="left">Sejá bem vindo👋,Eu sou João Pedro</h1>
+---
 👨‍💻 Android Developer | Java | Android Studio  
 
----
+
   
   
 Types of technology you find here
