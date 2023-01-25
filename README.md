@@ -1,11 +1,10 @@
 <!-- BEGIN -->
 
-<h1 align="left">Sejá bem vindo👋,Eu sou João Pedro</h1>
+<h1 align="center">Sejá bem vindo👋,Eu sou João Pedro</h1>
 ---
-👨‍💻 Android Developer | Java | Android Studio  
 
 <h2 align="left">informações básicas</h2>
-
+ . Atualmente estou aprendendo Java, Xml e sql.
   
   
 Types of technology you find here
