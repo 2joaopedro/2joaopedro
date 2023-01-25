@@ -5,7 +5,7 @@
 
 <h2 align="left">informações básicas</h2>
  • Atualmente estou aprendendo: Android Nativo
-  
+ • Estou estudando: Análise de sistemas - Unimar.
   
 Types of technology you find here
 <p align="left">
