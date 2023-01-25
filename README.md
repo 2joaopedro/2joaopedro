@@ -13,6 +13,7 @@
  • Android </br>
  • Java </br>
  • Sql </br>
+---
 
 **📫 Redes sociais**
   
@@ -32,7 +33,7 @@
   </table>
 </center>
 
----
+
 
 
  
