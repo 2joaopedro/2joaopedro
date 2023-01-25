@@ -2,6 +2,7 @@
 
 <h1 align="center">Sejá bem vindo👋,Eu sou João Pedro</h1>
 👨‍💻 Android Developer | Java | Android Studio  
+
 ---
   
   
