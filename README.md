@@ -3,9 +3,9 @@
 <h1 align="center">Sejá bem vindo👋,Eu sou João Pedro</h1>
 ---
 
-<h2 align="left">informações básicas</h2>
- • Atualmente estou aprendendo: Android Nativo
- • Estou estudando: Análise de sistemas - Unimar.
+## **📋 Basic Informations** </br>
+ • Atualmente estou aprendendo: Android Nativo. </br>
+ • Estou estudando: Análise de sistemas - Unimar. </br>
   
 Types of technology you find here
 <p align="left">
