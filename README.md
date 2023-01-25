@@ -20,8 +20,7 @@
 ---
 
 ## **⚙📲 Contato** </br>
-[![Likedin Badge]
-[![Gmail Badge](https://img.shields.io/badge/-joao.pedro.franchini.4@gmail.com-0f3d8c?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joao.pedro.franchini.4@gmail.com)](mailto:joao.pedro.franchini.4@gmail.com)
+<a href="https://mail.google.com/mail/u/0/?tab=km#inbox"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 ---
 
 <center>
