@@ -4,7 +4,7 @@
 ---
 
 <h2 align="left">informações básicas</h2>
- • Atualmente estou aprendendo Desenvolvimento Android Nativo(Java)
+ • Atualmente estou aprendendo: Android Nativo
   
   
 Types of technology you find here
