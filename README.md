@@ -21,8 +21,6 @@
 <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-franchini-56b5821ba/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linked"></a>
 </p>
 
----
-
 <center>
   <table>
       <tr>
@@ -36,12 +34,6 @@
   </table>
 </center>
 
-
-
-
- 
-
----
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=2joaopedro" alt="2joaopedro" /> </p>
 
 <!-- END-->
