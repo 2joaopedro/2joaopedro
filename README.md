@@ -11,13 +11,14 @@
 ---
 ## **⚙️ Tecnologias** </br>
 
- • Android Studio, Java e Sql.
+ • <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio">
+
 
  
 ---
 
-## **⚙️ Redes sociais** </br>
-  
+## **⚙📲 Redes sociais** </br>
+[![Likedin Badge]
 [![Gmail Badge](https://img.shields.io/badge/-joao.pedro.franchini.4@gmail.com-0f3d8c?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joao.pedro.franchini.4@gmail.com)](mailto:joao.pedro.franchini.4@gmail.com)
 ---
 
