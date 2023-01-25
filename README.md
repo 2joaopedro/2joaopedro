@@ -11,9 +11,8 @@
 ---
 ## **⚙️ Tecnologias** </br>
 
- • Android </br>
- • Java </br>
- • Sql </br>
+ • Android Studio,Java e Sql
+
  
 ---
 
