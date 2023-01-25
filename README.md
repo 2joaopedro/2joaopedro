@@ -8,8 +8,10 @@
 ## **📋 Informações Básicas** </br>
  • Atualmente estou aprendendo: Android Nativo. </br>
  • Estou estudando: Análise de sistemas - Unimar. </br>
-  
+ 
+---
 ## **⚙️ Tecnologias** </br>
+
  • Android </br>
  • Java </br>
  • Sql </br>
