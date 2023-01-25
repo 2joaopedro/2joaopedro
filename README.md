@@ -33,7 +33,4 @@
      </tr>
   </table>
 </center>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=2joaopedro" alt="2joaopedro" /> </p>
-
 <!-- END-->
