@@ -20,7 +20,11 @@
 ---
 
 ## **⚙📲 Contato** </br>
+<p align="left">
 <a href="https://mail.google.com/mail/u/0/?tab=km#inbox"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+<a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-franchini-56b5821ba/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linked"></a>
+</p>
+
 ---
 
 <center>
