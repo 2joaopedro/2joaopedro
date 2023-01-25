@@ -19,10 +19,14 @@
 
 <center>
   <table>
-    <tr>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2joaopedro&hide=html&layout=compact&theme=radical" /></td>
-      <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=2joaopedro&theme=radical&show_icons=true"/></td>
-    </tr>   
+      <tr>
+        <td>
+          <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EriikGabriel&hide=html&layout=compact&theme=radical" />
+        </td>
+        <td>
+          <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=EriikGabriel&theme=radical&show_icons=true"/>
+        </td>
+     </tr>
   </table>
 </center>
 
