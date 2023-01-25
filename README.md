@@ -10,11 +10,11 @@
  
 ---
 ## **⚙️ Tecnologias** </br>
-
+<p align="left">
  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio">
  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
 
-
+</p>
 
  
 ---
