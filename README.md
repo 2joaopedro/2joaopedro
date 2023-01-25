@@ -10,13 +10,11 @@
  • Estou estudando: Análise de sistemas - Unimar. </br>
   
 ## **⚙️ Tecnologias** </br>
-<p align="left">
- <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/></svg>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="50" height="60"/></svg>
-</p>
+ • Android </br>
+ • Java </br>
+ • Sql </br>
 
-- Unity
-- C#
+
 ---
 
 <center>
