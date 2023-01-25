@@ -25,7 +25,6 @@
     </tr>   
   </table>
 </center>
- <td><img width="495px" align="right" src=https://cdn.discordapp.com/attachments/653002831170895874/901614843407265812/7d99e305758e0b93632128b945c0f4c2.gif
 
 ---
 
