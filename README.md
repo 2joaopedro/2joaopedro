@@ -14,7 +14,9 @@
  • Java </br>
  • Sql </br>
 
-
+**📫 Redes sociais**
+  
+[![Gmail Badge](https://img.shields.io/badge/-joao.pedro.franchini.4@gmail.com-0f3d8c?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joao.pedro.franchini.4@gmail.com)](mailto:joao.pedro.franchini.4@gmail.com)
 ---
 
 <center>
@@ -32,9 +34,7 @@
 
 ---
 
-**📫 How to reach me:**
-  
-[![Gmail Badge](https://img.shields.io/badge/-joao.pedro.franchini.4@gmail.com-0f3d8c?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joao.pedro.franchini.4@gmail.com)](mailto:joao.pedro.franchini.4@gmail.com)
+
  
 
 ---
