@@ -1,10 +1,7 @@
 <!-- BEGIN -->
 
 <h1 align="center">Sejá bem vindo👋,Eu sou João Pedro</h1>
-<h2 align="center">Everything has is time!</h2>
-👨‍💻 I am GameDeveloper | Unity | C# |
-⚡ I like coffe.
-  
+👨‍💻 Android Developer | Java | Android Studio  
 ---
   
   
