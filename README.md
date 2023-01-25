@@ -1,7 +1,6 @@
 <!-- BEGIN -->
 
 <h1 align="center">Welcome 👋, I'm João Pedro</h1>
----
 
 ## **📋 Basic Informations** </br>
  • Atualmente estou aprendendo: Android Nativo. </br>
