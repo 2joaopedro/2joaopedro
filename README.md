@@ -4,6 +4,7 @@
 ---
 👨‍💻 Android Developer | Java | Android Studio  
 
+<h2 align="left">informações básicas</h2>
 
   
   
