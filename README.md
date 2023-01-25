@@ -11,7 +11,7 @@
   
 ## **⚙️ Tecnologias** </br>
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons//-.svg" alt="Unity" width="50" height="60"/></svg>
+ <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" width="50" height="60"/></svg>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="50" height="60"/></svg>
 </p>
 
