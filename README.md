@@ -5,7 +5,7 @@
 </br>
 
 ## **📋 Informações Básicas** </br>
- • Atualmente estou aprendendo: Android Nativo. </br>
+ • Atualmente estou aprendendo: Desenvolvimento mobile </br>
  • Estou estudando: Análise de sistemas - Unimar. </br>
  
 ## **⚙️ Tecnologias** </br>
