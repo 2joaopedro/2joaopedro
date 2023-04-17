@@ -5,12 +5,12 @@
 </br>
 
 ## **📋 Informações Básicas** </br>
- • Atualmente estou aprendendo: Desenvolvimento mobile </br>
+ • Atualmente estou aprendendo: Desenvolvimento Web </br>
  • Estou estudando: Análise de sistemas - Unimar. </br>
  
 ## **⚙️ Tecnologias** </br>
 <p align="left">
- <img src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37" alt="Expo">
+ <img src="![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)>
  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase">
  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React-Native">
  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
